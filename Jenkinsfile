@@ -22,7 +22,7 @@ pipeline {
                     node --version
                     npm --version
                     npm install or yarn install
-                    npm run build
+                    run `npm fund` 
                     ls -la
                 '''
             }
