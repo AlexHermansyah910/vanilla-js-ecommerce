@@ -21,5 +21,10 @@
     "install": "^0.13.0",
     "or": "^0.2.0",
     "yarn": "^1.22.22"
-  }
+  },
+  "description": "Vanilla JavaScript Ecommerce is a project I developed with Vanilla JavaScript to improve my JavaScript skills. It is created by taking mobile-first design into consideration. BEM methodology is used as the CSS naming method. SCSS/SASS is used as the CSS-preprocessor.",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": ""
 }
